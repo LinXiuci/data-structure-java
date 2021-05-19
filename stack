@@ -1,5 +1,5 @@
 
-
+、
 public interface interfaceStack<Item> {
     
     /**
@@ -14,3 +14,4 @@ public interface interfaceStack<Item> {
     boolean empty();//测试此堆栈是否为空。
 
 }
+、
